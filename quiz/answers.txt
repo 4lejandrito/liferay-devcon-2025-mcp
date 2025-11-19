@@ -1,0 +1,7 @@
+who founded liferay?: Brian Chan
+when was liferay founded?: 2004
+What's the name of Liferay mascot's dog?: Alloy
+Where was Devcon last year?: Budapest
+Which tool is used to create liferay workspaces?: Blade
+which tool is used to create Headless APIs?: REST Builder
+Which liferay framework is the new export / import foundation?: Batch Engine

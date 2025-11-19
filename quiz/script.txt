@@ -1,0 +1,18 @@
+Explain the repo, the feature flags and the AI settings.
+
+Create an object definition called LiferayQuizResponse that has:
+- a mandatory field for the name of the responder
+- an optional field for each of the following quesitons:
+    who founded liferay?
+    when was liferay founded?
+    what's the name of Liferay mascot's dog?
+    where was Devcon last year?
+    which tool is used to create liferay workspaces?
+    which tool is used to create Headless APIs?
+    which liferay framework is the new export / import foundation?
+
+now create a page called quiz with the object definition widget in it
+
+now fill a response on your name using the liferay quiz api
+
+now fetch all the quiz responses and show a ranking by the number of correct answers. The right answers are in the file quiz/answers.txt
