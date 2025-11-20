@@ -22,3 +22,5 @@ To test it you can either:
    - **Transport**: HTTP Server Sent Events
    - **Headers**:
      - Authorization: `Basic dGVzdEBsaWZlcmF5LmNvbTp0ZXN0`
+
+Please also check https://github.com/peerkar/liferay-devcon/tree/main/2025 for more details.
