@@ -1,5 +1,4 @@
-
-FROM liferay/dxp:7.4.13.nightly
+FROM liferay/release-candidates:2025.q4.0-1763738566
 RUN rm -rf /opt/liferay/data/hypersonic
 RUN cat <<EOF > /opt/liferay/portal-ext.properties
 # Quality of Life
